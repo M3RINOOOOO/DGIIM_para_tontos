@@ -9,6 +9,6 @@ Habréis escuchado hablar de la dificultad de este doble grado, que si es muy di
 
 En cada carpeta correspondiente a cada asignatura también hay un pequeño resumen de mi experiencia y lo que hay que hacer más o menos para poder aprobar dicha asignatura.
 
-Muchos preguntáis sobre qué portátil es necesario y cuál es el sistema operativo más recomendable para esta carrera, pues con casi cualquier portátil se puede hacer todo lo necesario, así que eso no es ningún problema. Acerca del sistema operativo en el primer cuatri solo se utiliza windows, pero a partir del segundo cuatri se va a necesitar linux, por lo que lo ideal sería hacer una partición en el ordenador dando una pequeña parte del disco a linux (con 100 gbs para linux va más que sobradísimo)
+Muchos preguntáis sobre qué portátil es necesario y cuál es el sistema operativo más recomendable para esta carrera, pues con casi cualquier portátil se puede hacer todo lo necesario, así que eso no supone ningún problema. Acerca del sistema operativo en el primer cuatri solo se utiliza windows, pero a partir del segundo cuatri se va a necesitar linux, por lo que lo ideal sería hacer una partición en el ordenador dando una pequeña parte del disco a linux (con 100 gbs para linux va más que sobradísimo), para hacer una partición hay miles de tutoriales por internet que lo explican muy bien
 
 Espero que este git sea de utilidad para todos, y si tenéis alguna duda no dudéis en preguntarme cualquier cosa ;)
